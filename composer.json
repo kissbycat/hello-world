@@ -2,6 +2,7 @@
     "name": "kissbycat/hello-world",
     "description": "hello-world",
     "license": "MIT",
+    "version": "1.0.0.1",
     "authors": [
         {
             "name": "kissbycat",
