@@ -1,0 +1,12 @@
+{
+    "name": "kissbycat/hello-world",
+    "description": "hello-world",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kissbycat",
+            "email": "c.p2000@163.com"
+        }
+    ],
+    "require": {}
+}
